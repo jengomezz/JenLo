@@ -22,7 +22,7 @@ title: JenLo COMP 110 Exercise
 email: jengomez@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   On this website, we analyze the correlation between going to office hours vs. student's understanding of the course material. 
-baseurl: "JenLo" # the subpath of your site, e.g. /blog
+baseurl: "/JenLo" # the subpath of your site, e.g. /blog
 url: "jengomezz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
